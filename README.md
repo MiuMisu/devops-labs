@@ -32,4 +32,4 @@ Step 6. Sending to NET
 
 Step 7. Create .gitignore
     7.1 echo .env > .gitignore
-# Hiding secrets ;)
+# Hiding secrets ;1)
