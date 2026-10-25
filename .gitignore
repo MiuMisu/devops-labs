@@ -1,0 +1,4 @@
+# We ignore concrete standart setting file
+.env
+# We ignore any variations env-file
+*.env
