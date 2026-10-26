@@ -30,6 +30,6 @@
     git push -u origin main
  send my save files to the rep. origin in the branch main. I bounded a local branch with cloud. 
 
-Step 7. Create .gitignore
+## Step 7. Create .gitignore
     7.1 echo .env > .gitignore
 Hiding secrets ;1)
