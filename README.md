@@ -12,7 +12,7 @@
 
 ## Step 2. Create Lab-rep
    ### 2.1 Create connection and preparation
-   
+
     Git init for initialization
     Git remote add origin <URL> - bound to network
 
@@ -21,8 +21,7 @@
 
 ## Step 4. Locking structure of folders
  Face with the folders aren't show
-   ### 4.1 Creation the files .gitkeep
-   
+   ### 4.1 Creation the files ,gitkeep
     find . -type d -empty -not -path './git*' -exec touch {}/.gitkeep \;
 
 ## Step 5. Git add
