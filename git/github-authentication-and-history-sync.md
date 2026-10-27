@@ -23,12 +23,12 @@ Displays a short status (-s), including the current branch (-b) and its relation
 Fetches remote changes and replays local commits
 ## 5. Resolving a Conflict
 ### 5.1 Check the conflicting files
-git status
+        git status
 ### 5.2 Edit each conflicting file and remove the conflict markers after selecting the correct finak content.
 ### 5.3 Mark the resolve file as prepared
-git add <filename>
+        git add <filename>
 ### 5.4 Continue the rebase
-git rebase --continue
+        git rebase --continue
 ## 6. Pushing and Veryfying
-git push 
-git status -sb         
+        git push 
+        git status -sb         
