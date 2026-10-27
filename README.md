@@ -35,4 +35,4 @@
 
 ## Step 7. Create .gitignore
    ### 7.1 echo .env > .gitignore
-Hiding secrets ;1)
+Hiding secrets ;)
