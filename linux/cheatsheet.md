@@ -1,6 +1,5 @@
 # Linux Commands Cheat Sheet
 
-<<<<<<< HEAD
 Welcome to the Linux Commands repository. Essentials, Interesting and frequently-used commands describes here.
 
 ## File & Directory Operations
@@ -16,7 +15,7 @@ Welcome to the Linux Commands repository. Essentials, Interesting and frequently
  
     chmod 755 stand for Read, Write and Execute for Owner; Read and Execute for Group and Other.
     We can change it with simply math.: 1 is Execute, 2 is Write and 4 is Read.
-=======
+
 A collection of essential, useful, and frequently used Linux commands with explanations and practical examples.
 
 ## File & Directory Operations
@@ -35,5 +34,5 @@ A collection of essential, useful, and frequently used Linux commands with expla
 
     List files and shows permissions, user owner, group owner, and more.
     [xxx@xxx $] ls -l 
->>>>>>> f3fb078 (Update cheatsheet.md)
+
     
